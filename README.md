@@ -1,7 +1,7 @@
 # shiny app for Repeated Measurements Course
 This repository contains a [shiny](http://shiny.rstudio.com/) application that replicates 
 all analyses presented in the course 
-**Statistical Analysis of Repeated Measurements Data**, including also some additional 
+[Statistical Analysis of Repeated Measurements Data](http://www.drizopoulos.com/courses/EMC/CE08.pdf), including also some additional 
 illustrations. The app requires [R](http://cran.r-project.org/) 
 (version >= 3.5.2) and the following packages:
 
